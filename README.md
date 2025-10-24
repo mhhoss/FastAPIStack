@@ -181,8 +181,8 @@ FastAPIVerseHub/                    # 🏠 Project root
 
 ```bash
 # 1️⃣ Clone the repository
-git clone https://github.com/SatvikPraveen/FastAPIVerseHub.git
-cd FastAPIVerseHub
+git clone https://github.com/mhhoss/fastapi-.git
+cd fastapi-stack
 
 # 2️⃣ Copy environment configuration
 cp .env.example .env
@@ -212,8 +212,8 @@ docker-compose logs -f app
 
 ```bash
 # 1️⃣ Clone and setup
-git clone https://github.com/mhhoss/FastAPIStack.git
-cd FastAPIVerseHub
+git clone https://github.com/mhhoss/fastapi-stack.git
+cd fastapi-stack
 
 # 2️⃣ Create virtual environment
 python -m venv venv
@@ -809,8 +809,8 @@ docker-compose logs -f app
 
 ### 🆘 Getting Help
 
-- **📊 GitHub Issues** - [Report bugs or request features](https://github.com/mhhoss/FastAPIStack/issues)
-- **💬 Discussions** - [Ask questions and share ideas](https://github.com/mhhoss/FastAPIStack/discussions)
+- **📊 GitHub Issues** - [Report bugs or request features](https://github.com/mhhoss/fastapi-stack/issues)
+- **💬 Discussions** - [Ask questions and share ideas](https://github.com/mhhoss/fastapi-stack/discussions)
 - **📧 Email** - Contact the maintainer for urgent issues
 
 ## 🏆 Project Goals
@@ -877,7 +877,7 @@ MIT License - Free for commercial and private use
 ### 👥 Contributors
 
 - **[Satvik Praveen](https://github.com/SatvikPraveen)** - Project creator and maintainer
-- **[Mahdi Hosseini](https://github.com/mhhoss)** – Maintainer of FastAPIStack with personal improvements and modular enhancements
+- **[Mahdi Hosseini](https://github.com/mhhoss)** – Maintainer of Fastapi-stack with personal improvements and modular enhancements
 - **Community Contributors** - Thank you to everyone who contributes!
 
 ## 🔗 Links
@@ -886,9 +886,9 @@ MIT License - Free for commercial and private use
 | -------------------- | ---------------------------------------------------------------------------------- | -------------------------------- |
 | **📚 Documentation** | [docs/](docs/)                                                                     | Complete project documentation   |
 | **🎨 API Reference** | [http://localhost:8000/docs](http://localhost:8000/docs)                           | Interactive API documentation    |
-| **🐛 Issues**        | [GitHub Issues](https://github.com/mhhoss/FastAPIStack/issues)                     | Bug reports and feature requests |
-| **💬 Discussions**   | [GitHub Discussions](https://github.com/mhhoss/FastAPIStack/discussions)           | Community discussions            |
-| **⭐ Repository**    | [GitHub Repo](https://github.com/mhhoss/FastAPIStack)                              | Source code repository           |
+| **🐛 Issues**        | [GitHub Issues](https://github.com/mhhoss/fastapi-stack/issues)                     | Bug reports and feature requests |
+| **💬 Discussions**   | [GitHub Discussions](https://github.com/mhhoss/fastapi-stack/discussions)           | Community discussions            |
+| **⭐ Repository**    | [GitHub Repo](https://github.com/mhhoss/fastapi-stack)                              | Source code repository           |
 | **👤 Owner**        | [@mhhoss](https://github.com/mhhoss)                                                | Project maintainer               |
 
 > Based on [FastAPIVerseHub](https://github.com/SatvikPraveen/FastAPIVerseHub)
@@ -899,7 +899,7 @@ MIT License - Free for commercial and private use
 
 **🚀 Happy coding! 🚀**
 
-_FastAPIStack - Where FastAPI learning meets real-world application._
+_FastAPI Stack - Where FastAPI learning meets real-world application._
 
 **⭐ If you find this project helpful, please give it a star! ⭐**
 
