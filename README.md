@@ -1,13 +1,14 @@
-# FastAPI Stack 🚀
+# FastAPIVerseHub 🚀
+
+**File Location: README.md**
+
+A comprehensive FastAPI learning and demonstration project that showcases modern Python web development patterns, best practices, and advanced features. Perfect for learning FastAPI or as a production-ready template.
 
 [![Python](https://img.shields.io/badge/Python-3.11+-blue.svg)](https://python.org)
 [![FastAPI](https://img.shields.io/badge/FastAPI-0.104+-green.svg)](https://fastapi.tiangolo.com)
 [![Docker](https://img.shields.io/badge/Docker-Ready-blue.svg)](https://docker.com)
 [![License](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE)
 [![Tests](https://img.shields.io/badge/Tests-Passing-brightgreen.svg)](#testing)
-
-A modern, modular FastAPI backend template for building secure and scalable Python APIs.  
-Includes JWT authentication, PostgreSQL, Redis, WebSockets, Docker, and full test coverage — perfect for learning, refactoring, or production use.
 
 ## 📋 Table of Contents
 
@@ -181,8 +182,8 @@ FastAPIVerseHub/                    # 🏠 Project root
 
 ```bash
 # 1️⃣ Clone the repository
-git clone https://github.com/mhhoss/fastapi-.git
-cd fastapi-stack
+git clone https://github.com/SatvikPraveen/FastAPIVerseHub.git
+cd FastAPIVerseHub
 
 # 2️⃣ Copy environment configuration
 cp .env.example .env
@@ -212,8 +213,8 @@ docker-compose logs -f app
 
 ```bash
 # 1️⃣ Clone and setup
-git clone https://github.com/mhhoss/fastapi-stack.git
-cd fastapi-stack
+git clone https://github.com/SatvikPraveen/FastAPIVerseHub.git
+cd FastAPIVerseHub
 
 # 2️⃣ Create virtual environment
 python -m venv venv
@@ -336,7 +337,7 @@ ws.send(
     content: "Hello, World!",
     room: "general",
   })
-); 
+);
 ```
 
 ### 📡 Server-Sent Events
@@ -809,8 +810,8 @@ docker-compose logs -f app
 
 ### 🆘 Getting Help
 
-- **📊 GitHub Issues** - [Report bugs or request features](https://github.com/mhhoss/fastapi-stack/issues)
-- **💬 Discussions** - [Ask questions and share ideas](https://github.com/mhhoss/fastapi-stack/discussions)
+- **📊 GitHub Issues** - [Report bugs or request features](https://github.com/SatvikPraveen/FastAPIVerseHub/issues)
+- **💬 Discussions** - [Ask questions and share ideas](https://github.com/SatvikPraveen/FastAPIVerseHub/discussions)
 - **📧 Email** - Contact the maintainer for urgent issues
 
 ## 🏆 Project Goals
@@ -877,7 +878,6 @@ MIT License - Free for commercial and private use
 ### 👥 Contributors
 
 - **[Satvik Praveen](https://github.com/SatvikPraveen)** - Project creator and maintainer
-- **[Mahdi Hosseini](https://github.com/mhhoss)** – Maintainer of Fastapi-stack with personal improvements and modular enhancements
 - **Community Contributors** - Thank you to everyone who contributes!
 
 ## 🔗 Links
@@ -886,12 +886,10 @@ MIT License - Free for commercial and private use
 | -------------------- | ---------------------------------------------------------------------------------- | -------------------------------- |
 | **📚 Documentation** | [docs/](docs/)                                                                     | Complete project documentation   |
 | **🎨 API Reference** | [http://localhost:8000/docs](http://localhost:8000/docs)                           | Interactive API documentation    |
-| **🐛 Issues**        | [GitHub Issues](https://github.com/mhhoss/fastapi-stack/issues)                     | Bug reports and feature requests |
-| **💬 Discussions**   | [GitHub Discussions](https://github.com/mhhoss/fastapi-stack/discussions)           | Community discussions            |
-| **⭐ Repository**    | [GitHub Repo](https://github.com/mhhoss/fastapi-stack)                              | Source code repository           |
-| **👤 Owner**        | [@mhhoss](https://github.com/mhhoss)                                                | Project maintainer               |
-
-> Based on [FastAPIVerseHub](https://github.com/SatvikPraveen/FastAPIVerseHub)
+| **🐛 Issues**        | [GitHub Issues](https://github.com/SatvikPraveen/FastAPIVerseHub/issues)           | Bug reports and feature requests |
+| **💬 Discussions**   | [GitHub Discussions](https://github.com/SatvikPraveen/FastAPIVerseHub/discussions) | Community discussions            |
+| **⭐ Repository**    | [GitHub Repo](https://github.com/SatvikPraveen/FastAPIVerseHub)                    | Source code repository           |
+| **👤 Author**        | [@SatvikPraveen](https://github.com/SatvikPraveen)                                 | Project maintainer               |
 
 ---
 
@@ -899,7 +897,7 @@ MIT License - Free for commercial and private use
 
 **🚀 Happy coding! 🚀**
 
-_FastAPI Stack - Where FastAPI learning meets real-world application._
+_FastAPIVerseHub - Where FastAPI learning meets real-world application._
 
 **⭐ If you find this project helpful, please give it a star! ⭐**
 
